@@ -1,0 +1,2 @@
+Invoking command in '/home/avinaash/test_ws/build/gearfork_bot_bringup': /usr/bin/cmake /home/avinaash/test_ws/src/gearfork_bot_bringup -DCMAKE_INSTALL_PREFIX=/home/avinaash/test_ws/install/gearfork_bot_bringup
+Invoked command in '/home/avinaash/test_ws/build/gearfork_bot_bringup' returned '1': /usr/bin/cmake /home/avinaash/test_ws/src/gearfork_bot_bringup -DCMAKE_INSTALL_PREFIX=/home/avinaash/test_ws/install/gearfork_bot_bringup

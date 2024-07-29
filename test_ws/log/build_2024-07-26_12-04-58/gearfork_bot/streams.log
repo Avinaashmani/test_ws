@@ -1,0 +1,40 @@
+[0.017s] Invoking command in '/home/avinaash/test_ws/build/gearfork_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/avinaash/catkin_ws/install/urdf_tutorial_r2d2:/home/avinaash/catkin_ws/install/rqt:/home/avinaash/catkin_ws/install/rqt_joint_trajectory_controller:/home/avinaash/catkin_ws/install/rqt_gui_py:/home/avinaash/catkin_ws/install/rqt_gui:/home/avinaash/catkin_ws/install/ros2_controllers_test_nodes:/home/avinaash/test_urdf_tool_ws/install/test_urdf_tool:/opt/ros/humble /usr/bin/cmake --build /home/avinaash/test_ws/build/gearfork_bot -- -j12 -l12
+[0.072s] Invoked command in '/home/avinaash/test_ws/build/gearfork_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/avinaash/catkin_ws/install/urdf_tutorial_r2d2:/home/avinaash/catkin_ws/install/rqt:/home/avinaash/catkin_ws/install/rqt_joint_trajectory_controller:/home/avinaash/catkin_ws/install/rqt_gui_py:/home/avinaash/catkin_ws/install/rqt_gui:/home/avinaash/catkin_ws/install/ros2_controllers_test_nodes:/home/avinaash/test_urdf_tool_ws/install/test_urdf_tool:/opt/ros/humble /usr/bin/cmake --build /home/avinaash/test_ws/build/gearfork_bot -- -j12 -l12
+[0.116s] Invoking command in '/home/avinaash/test_ws/build/gearfork_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/avinaash/catkin_ws/install/urdf_tutorial_r2d2:/home/avinaash/catkin_ws/install/rqt:/home/avinaash/catkin_ws/install/rqt_joint_trajectory_controller:/home/avinaash/catkin_ws/install/rqt_gui_py:/home/avinaash/catkin_ws/install/rqt_gui:/home/avinaash/catkin_ws/install/ros2_controllers_test_nodes:/home/avinaash/test_urdf_tool_ws/install/test_urdf_tool:/opt/ros/humble /usr/bin/cmake --install /home/avinaash/test_ws/build/gearfork_bot
+[0.129s] -- Install configuration: ""
+[0.130s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//launch
+[0.130s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//launch/display.launch
+[0.130s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//launch/display.launch.py
+[0.131s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//launch/gazebo.launch
+[0.131s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//config
+[0.131s] -- Installing: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//config/tricycle_controller.yaml
+[0.132s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//config/config.rviz
+[0.132s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//urdf
+[0.132s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//urdf/gearfork_bot.urdf
+[0.132s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//urdf/gearfork_bot.csv
+[0.133s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//meshes
+[0.133s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//meshes/base_link.STL
+[0.133s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//meshes/lroller_link.STL
+[0.134s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//meshes/laser_link.STL
+[0.134s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//meshes/wheel_link.STL
+[0.134s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//meshes/rroller_link.STL
+[0.134s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//meshes/motor_link.STL
+[0.134s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//meshes/base_footprint.STL
+[0.135s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//meshes/steering_link.STL
+[0.135s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot//src
+[0.136s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/ament_index/resource_index/package_run_dependencies/gearfork_bot
+[0.136s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/ament_index/resource_index/parent_prefix_path/gearfork_bot
+[0.136s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/environment/ament_prefix_path.sh
+[0.136s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/environment/ament_prefix_path.dsv
+[0.136s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/environment/path.sh
+[0.137s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/environment/path.dsv
+[0.137s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/local_setup.bash
+[0.137s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/local_setup.sh
+[0.138s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/local_setup.zsh
+[0.138s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/local_setup.dsv
+[0.138s] -- Installing: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/package.dsv
+[0.138s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/ament_index/resource_index/packages/gearfork_bot
+[0.138s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/cmake/gearfork_botConfig.cmake
+[0.138s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/cmake/gearfork_botConfig-version.cmake
+[0.138s] -- Up-to-date: /home/avinaash/test_ws/install/gearfork_bot/share/gearfork_bot/package.xml
+[0.149s] Invoked command in '/home/avinaash/test_ws/build/gearfork_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/avinaash/catkin_ws/install/urdf_tutorial_r2d2:/home/avinaash/catkin_ws/install/rqt:/home/avinaash/catkin_ws/install/rqt_joint_trajectory_controller:/home/avinaash/catkin_ws/install/rqt_gui_py:/home/avinaash/catkin_ws/install/rqt_gui:/home/avinaash/catkin_ws/install/ros2_controllers_test_nodes:/home/avinaash/test_urdf_tool_ws/install/test_urdf_tool:/opt/ros/humble /usr/bin/cmake --install /home/avinaash/test_ws/build/gearfork_bot

@@ -1,0 +1,9 @@
+/home/avinaash/test_ws/build/gearfork_bot/CMakeFiles/uninstall.dir
+/home/avinaash/test_ws/build/gearfork_bot/CMakeFiles/gearfork_bot_uninstall.dir
+/home/avinaash/test_ws/build/gearfork_bot/CMakeFiles/test.dir
+/home/avinaash/test_ws/build/gearfork_bot/CMakeFiles/edit_cache.dir
+/home/avinaash/test_ws/build/gearfork_bot/CMakeFiles/rebuild_cache.dir
+/home/avinaash/test_ws/build/gearfork_bot/CMakeFiles/list_install_components.dir
+/home/avinaash/test_ws/build/gearfork_bot/CMakeFiles/install.dir
+/home/avinaash/test_ws/build/gearfork_bot/CMakeFiles/install/local.dir
+/home/avinaash/test_ws/build/gearfork_bot/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+source;share/gearfork_bot_bringup/local_setup.bash
+source;share/gearfork_bot_bringup/local_setup.dsv
+source;share/gearfork_bot_bringup/local_setup.sh
+source;share/gearfork_bot_bringup/local_setup.zsh
